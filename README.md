@@ -26,14 +26,12 @@ Here are some ideas to get you started:
 
 <img style="margin: 10px" src="assets/fastapi.svg" alt="FastAPI" title="FastAPI" height="50" />
 
-
-
 </td>
 <td align="center" valign="top">
 
 ### Database
 
-<img style="margin: 10px" src="assets/mysql.svg" alt="MySQL" title="MySQL" height="50" />
+<img style="margin: 10px" src="assets/SQLite3.svg" alt="SQLite" title="SQLite" height="50" />
 
 </td>
 </tr>
@@ -41,25 +39,7 @@ Here are some ideas to get you started:
 <tr>
 <td align="center" valign="top">
 
-### Mobile
-
-</td>
-<td align="center" valign="top">
-
-### Cloud & DevOps
-
-</td>
-</tr>
-
-<tr>
-<td align="center" valign="top">
-
-### Hardware
-
-
-</td>
-<td align="center" valign="top">
-
+#
 ### AI
 
 <img style="margin: 10px" src="assets/python.svg" alt="Python" title="Python" height="50" />
@@ -80,10 +60,6 @@ Here are some ideas to get you started:
 <td align="center" valign="top">
 
 ### Started with
-
-<img style="margin: 10px" src="assets/lua.svg" alt="Lua" title="Lua" height="50" />
-<img style="margin: 10px" src="assets/php.svg" alt="PHP" title="PHP" height="50" />
-<img style="margin: 10px" src="assets/xampp.svg" alt="XAMPP" title="XAMPP" height="50" />
 
 <img style="margin: 10px" src="assets/nodejs.svg" alt="Node.js" title="Node.js" height="50" />
 <img style="margin: 10px" src="assets/javascript.svg" alt="JavaScript" title="JavaScript" height="50" />
