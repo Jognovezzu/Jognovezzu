@@ -29,8 +29,6 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="assets/fastapi.svg" alt="FastAPI" title="FastAPI" height="50" />
 
 </td>
-  
-
 <td align="center" valign="top">
   
 
@@ -72,9 +70,6 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="assets/express.svg" alt="Express.js" title="Express.js" height="50" />
 
   
-
-</td>
-<td align="center" valign="top">
 
 ### Want to learn
 
