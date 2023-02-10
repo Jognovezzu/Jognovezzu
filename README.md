@@ -38,12 +38,8 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="assets/SQLite3.svg" alt="SQLite" title="SQLite" height="50" />
 
 </td>
-</tr>
-
-<tr>
 <td align="center" valign="top">
 
-#
 ### AI
 
 <img style="margin: 10px" src="assets/python.svg" alt="Python" title="Python" height="50" />
