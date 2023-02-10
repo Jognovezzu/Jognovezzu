@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 <td align="center" width="50%" valign="top">
 
 ### Backend
-
+ 
+<img style="margin: 10px" src="assets/python.svg" alt="Python" title="Python" height="50" />
 <img style="margin: 10px" src="assets/fastapi.svg" alt="FastAPI" title="FastAPI" height="50" />
 
 </td>
