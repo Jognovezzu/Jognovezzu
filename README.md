@@ -89,3 +89,9 @@ Here are some ideas to get you started:
 <br/>
 
 <!-- SKILLSET:END -->
+
+
+
+<div align="center">
+ <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jognovezzu&show_icons=true&langs_count=10&layout=compact&theme=dracula&count_private=true&hide=shaderlab,rpc,glsl,hlsl,cmake,asp" alt="My most used languages in Public Projects" />
+ </div>
