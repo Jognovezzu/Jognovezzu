@@ -67,6 +67,8 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="assets/javascript.svg" alt="JavaScript" title="JavaScript" height="50" />
 <img style="margin: 10px" src="assets/express.svg" alt="Express.js" title="Express.js" height="50" />
 
+</td>
+<td align="center" valign="top">
   
 
 ### Want to learn
