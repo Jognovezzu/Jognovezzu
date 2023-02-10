@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <tr>
 <td align="center" valign="top">
 
-### AI
+### AI / ML
 
 <img style="margin: 10px" src="assets/python.svg" alt="Python" title="Python" height="50" />
 <img style="margin: 10px" src="assets/opencv.svg" alt="OpenCV" title="OpenCV" height="50" />
@@ -66,6 +66,9 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="assets/nodejs.svg" alt="Node.js" title="Node.js" height="50" />
 <img style="margin: 10px" src="assets/javascript.svg" alt="JavaScript" title="JavaScript" height="50" />
 <img style="margin: 10px" src="assets/express.svg" alt="Express.js" title="Express.js" height="50" />
+<img style="margin: 10px" src="assets/html5.svg" alt="HTMl5" title="HTML5" height="50" />
+<img style="margin: 10px" src="assets/css3.svg" alt="CSS3" title="CSS3" height="50" />
+<img style="margin: 10px" src="assets/mongodb.svg" alt="MongoDB" title="MongoDB" height="50" />
 
 </td>
 <td align="center" valign="top">
