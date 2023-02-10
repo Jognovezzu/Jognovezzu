@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## Technologies & Tools
 
-<table>
+<table align="center">
  
 <tr>
 <td align="center" width="50%" valign="top">
