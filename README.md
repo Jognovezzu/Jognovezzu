@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ### Database
 
-<img style="margin: 10px" src="assets/Sqlite.svg" alt="SQLite" title="SQLite" height="50" />
+<img style="margin: 10px" src="assets/sqlite-1.svg" alt="SQLite" title="SQLite" height="50" />
 
 </td>
 </tr>
