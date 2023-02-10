@@ -48,6 +48,7 @@ Here are some ideas to get you started:
 </td>
 </tr>
 
+<tr>
 <td align="center" valign="top">
 
 ### Tools & IDEs
