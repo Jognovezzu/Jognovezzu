@@ -38,6 +38,9 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="assets/SQLite3.svg" alt="SQLite" title="SQLite" height="50" />
 
 </td>
+</tr>
+ 
+<tr>
 <td align="center" valign="top">
 
 ### AI
@@ -46,9 +49,7 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="assets/opencv.svg" alt="OpenCV" title="OpenCV" height="50" />
 
 </td>
-</tr>
 
-<tr>
 <td align="center" valign="top">
 
 ### Tools & IDEs
@@ -57,6 +58,7 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="assets/visual-studio-code.svg" alt="Visual Studio Code" title="Visual Studio Code" height="50" />
 
 </td>
+</tr>
 <td align="center" valign="top">
 
 ### Started with
