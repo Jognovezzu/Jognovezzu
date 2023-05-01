@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ### Database
 
 <img style="margin: 10px" src="assets/SQLite370.svg" alt="SQLite" title="SQLite" height="50" />
-<img style="margin: 10px" src="assets/postgresql.svg" alt="Postgres" title="Postgres" height="50" />
+<img style="margin: 10px" src="assets/postgresql-icon.svg" alt="Postgres" title="Postgres" height="50" />
 
 </td>
 </tr>
