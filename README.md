@@ -28,6 +28,7 @@ Here are some ideas to get you started:
  
 <img style="margin: 10px" src="assets/python.svg" alt="Python" title="Python" height="50" />
 <img style="margin: 10px" src="assets/fastapi.svg" alt="FastAPI" title="FastAPI" height="50" />
+<img style="margin: 10px" src="assets/NestJS.svg" alt="NestJS" title="NestJS" height="50" />
 
 </td>
 <td align="center" valign="top">
@@ -37,6 +38,7 @@ Here are some ideas to get you started:
 ### Database
 
 <img style="margin: 10px" src="assets/SQLite370.svg" alt="SQLite" title="SQLite" height="50" />
+<img style="margin: 10px" src="assets/postgresql.svg" alt="Postgres" title="Postgres" height="50" />
 
 </td>
 </tr>
@@ -57,6 +59,7 @@ Here are some ideas to get you started:
 
 <img style="margin: 10px" src="assets/github-desktop.svg" alt="GitHub Desktop" title="GitHub Desktop" height="50" />
 <img style="margin: 10px" src="assets/visual-studio-code.svg" alt="Visual Studio Code" title="Visual Studio Code" height="50" />
+<img style="margin: 10px" src="assets/docker.svg" alt="Docker" title="Docker" height="50" />
 
 </td>
 </tr>
