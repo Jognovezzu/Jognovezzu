@@ -28,7 +28,7 @@ Here are some ideas to get you started:
  
 <img style="margin: 10px" src="assets/python.svg" alt="Python" title="Python" height="50" />
 <img style="margin: 10px" src="assets/fastapi.svg" alt="FastAPI" title="FastAPI" height="50" />
-<img style="margin: 10px" src="assets/NestJS.svg" alt="NestJS" title="NestJS" height="50" />
+<img style="margin: 10px" src="assets/nestjs-icon.svg" alt="NestJS" title="NestJS" height="50" />
 
 </td>
 <td align="center" valign="top">
